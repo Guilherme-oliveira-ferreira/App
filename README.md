@@ -42,9 +42,10 @@ Facilitar a comunicação entre estabelecimentos e clientes que estão aguardand
 - `docs/`: documentação (requisitos, arquitetura, manual do usuário);
 - `video/`: gravação da apresentação do projeto.
 
-## ▶️ Como executar o projeto (modo desenvolvimento)
+## 🎥 Vídeo de apresentação
 
-1. Instalar dependências:
+O vídeo de apresentação do projeto está disponível na pasta:
 
-   ```bash
-   npm install
+- `video/apresentacao.mp4`
+
+
