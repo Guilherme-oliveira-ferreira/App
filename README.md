@@ -46,6 +46,6 @@ Facilitar a comunicação entre estabelecimentos e clientes que estão aguardand
 
 O vídeo de apresentação do projeto está disponível na pasta:
 
-- `video/apresentacao.mp4`
+- `video`
 
 
