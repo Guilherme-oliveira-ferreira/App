@@ -13,9 +13,7 @@ Facilitar a comunicação entre estabelecimentos e clientes que estão aguardand
 
 ## 👥 Equipe
 
-- Nome do integrante 1 – RA/Matricula
-- Nome do integrante 2 – RA/Matricula
-- ...
+- Nome do integrante 1 – Guilherme de Oliveira Ferreira
 
 ## 👤 Público-alvo
 
