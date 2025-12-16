@@ -1,49 +1,11 @@
-# Chama Já 🔔⚡
+# Sample Snack app
 
-Aplicativo móvel desenvolvido em **React Native com Expo**, para gerenciamento de senhas de atendimento e envio de notificações/mensagens para os clientes via WhatsApp, Instagram e notificação local.
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-## 🎯 Objetivo do projeto
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-Facilitar a comunicação entre estabelecimentos e clientes que estão aguardando atendimento, permitindo:
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-- Geração de senhas pelo administrador;
-- Validação de senha pelo cliente (apenas se tiver sido cadastrada antes);
-- Envio rápido de mensagem para o cliente (WhatsApp ou Instagram);
-- Disparo de notificação local com a senha do cliente.
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-## 👥 Equipe
-
-- Nome do integrante 1 – Guilherme de Oliveira Ferreira
-
-## 👤 Público-alvo
-
-- Pequenos comércios que usam senhas de atendimento;
-- Clínicas, consultórios, barbearias, etc.
-
-## 💰 Potencial de negócio / monetização
-
-- Versão gratuita com limite de senhas/dia;
-- Versão premium com histórico, relatórios e múltiplos atendentes;
-- Possível modelo de assinatura mensal para estabelecimentos.
-
-## 🧩 Tecnologias utilizadas
-
-- React Native
-- Expo
-- Expo Notifications
-- Expo Clipboard
-
-## 📂 Estrutura do repositório
-
-- `App.js`: código principal da aplicação;
-- `apk/`: contém o arquivo APK para instalação;
-- `docs/`: documentação (requisitos, arquitetura, manual do usuário);
-- `video/`: gravação da apresentação do projeto.
-
-## 🎥 Vídeo de apresentação
-
-O vídeo de apresentação do projeto está disponível na pasta:
-
-- `video`
-
-
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
